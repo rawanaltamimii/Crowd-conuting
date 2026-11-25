@@ -151,6 +151,6 @@ images_folder = "path/to/frames"
 ---
 
 <p align="center">
-  Made with 💜 by <b>Your Name</b><br>
+ <b>Rawan Altamimi</b><br>
   <sub>⭐ If you like this project, give it a star!</sub>
 </p>
